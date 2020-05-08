@@ -24,7 +24,7 @@
             android:textStyle="bold"
             android:textColor="#f20"
             android:textSize="30sp"
-            android:text="10 %"
+            tools:text="10 %"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
     </LinearLayout>
